@@ -24,6 +24,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
         Application.hpp Application.cpp
+        database.hpp database.cpp
+
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET GradeCalculator_QT APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
