@@ -1,3 +1,3 @@
-#include "database.hpp"
+#include "Database.hpp"
 
 Database::Database() {}

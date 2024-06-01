@@ -24,7 +24,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
         Application.hpp Application.cpp
-        database.hpp database.cpp
+        Database.hpp Database.cpp
+
 
 
     )
