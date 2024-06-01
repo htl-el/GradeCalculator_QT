@@ -301,9 +301,9 @@
 			null
 		],
 		[
-			"F:/Coden/GradeCalculator_QT/database.hpp",
+			"F:/Coden/GradeCalculator_QT/Database.hpp",
 			"MU",
-			"EWIEGA46WW/moc_database.cpp",
+			"EWIEGA46WW/moc_Database.cpp",
 			null
 		],
 		[
@@ -386,7 +386,7 @@
 	"SOURCES" : 
 	[
 		[ "F:/Coden/GradeCalculator_QT/Application.cpp", "MU", null ],
-		[ "F:/Coden/GradeCalculator_QT/database.cpp", "MU", null ],
+		[ "F:/Coden/GradeCalculator_QT/Database.cpp", "MU", null ],
 		[ "F:/Coden/GradeCalculator_QT/main.cpp", "MU", null ],
 		[ "F:/Coden/GradeCalculator_QT/mainwindow.cpp", "MU", null ]
 	],
