@@ -1,10 +1,17 @@
 #ifndef APPLICATION_HPP
 #define APPLICATION_HPP
 
+
+#include <vector>
+
 class Application
 {
-public:
-    Application();
+    private:
+    std::vector <std::string>
+
+    public:
+
+        Application();
 };
 
 #endif // APPLICATION_HPP
