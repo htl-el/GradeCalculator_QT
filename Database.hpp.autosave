@@ -1,0 +1,15 @@
+#ifndef DATABASE_HPP
+#define DATABASE_HPP
+#include <string>
+
+using namespace std;
+
+class Database
+{
+private:
+    string path;
+public:
+    Database(string);
+};
+
+#endif // DATABASE_HPP
