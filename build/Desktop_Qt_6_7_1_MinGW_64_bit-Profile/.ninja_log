@@ -1,0 +1,11 @@
+# ninja log v5
+2	414	7389729924300350	GradeCalculator_QT_autogen/timestamp	349c574d28213bd9
+2	414	7389729924300350	GradeCalculator_QT_autogen/mocs_compilation.cpp	349c574d28213bd9
+2	414	7389729924300350	F:/Coden/GradeCalculator_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Profile/GradeCalculator_QT_autogen/timestamp	349c574d28213bd9
+2	414	7389729924300350	F:/Coden/GradeCalculator_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Profile/GradeCalculator_QT_autogen/mocs_compilation.cpp	349c574d28213bd9
+441	495	7389729925575322	CMakeFiles/GradeCalculator_QT.dir/Database.cpp.obj	68e15f0555559403
+424	659	7389729927193509	CMakeFiles/GradeCalculator_QT.dir/Application.cpp.obj	f16f9d344f5bd00d
+414	1652	7389729937131524	CMakeFiles/GradeCalculator_QT.dir/GradeCalculator_QT_autogen/mocs_compilation.cpp.obj	ab4880296f07bff8
+420	1687	7389729937473816	CMakeFiles/GradeCalculator_QT.dir/main.cpp.obj	2c236cf2e87a61
+433	1864	7389729939231633	CMakeFiles/GradeCalculator_QT.dir/mainwindow.cpp.obj	1f7959ef06a9e53d
+1864	2005	7389729940654758	GradeCalculator_QT.exe	5453ce444cf78950
