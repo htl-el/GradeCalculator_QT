@@ -5,6 +5,7 @@ class Application
 {
 public:
     Application();
+    int test123
 };
 
 #endif // APPLICATION_HPP
